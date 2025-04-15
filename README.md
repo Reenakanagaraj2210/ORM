@@ -42,7 +42,9 @@ class MovieAdmin(admin.ModelAdmin):
 
 ```
 ## OUTPUT
-Screenshot 2025-04-11 145300.png
+
+![Screenshot 2025-04-11 145300](https://github.com/user-attachments/assets/a8aa3ecf-b26a-4de5-9ed6-b7d9ff280e81)
+
 
 
 
